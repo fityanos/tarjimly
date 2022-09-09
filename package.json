@@ -1,0 +1,14 @@
+{
+  "name": "tarjm",
+  "version": "1.0.0",
+  "description": "Tarjim is the Arabic word for translate. CLI for quick translations build on top of MyMemory-Translated",
+  "main": "index.js",
+  "type": "module",
+  "author": "Anas Fitiani <https://github.com/fityanos>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.27.2",
+    "chalk": "5.0.1",
+    "yargs": "17.5.1"
+  }
+}

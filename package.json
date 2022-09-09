@@ -3,12 +3,25 @@
   "version": "1.0.0",
   "description": "tarjimly is the Arabic word for translate for me. Simple CLI for translation build on top of MyMemory-Translated",
   "main": "index.js",
+  "bin": "index.js",
+  "keywords": [
+    "translate",
+    "translation",
+    "languages"
+  ],
   "type": "module",
-  "author": "Anas Fitiani <https://github.com/fityanos>",
+  "author": "Anas Fitiani",
   "license": "MIT",
   "dependencies": {
     "axios": "0.27.2",
     "chalk": "5.0.1",
     "yargs": "17.5.1"
-  }
+  },
+  "repository": {
+    "url": "https://github.com/fityanos/tarjimly"
+  },
+  "bugs": {
+    "url": "https://github.com/fityanos/tarjimly/issues"
+  },
+  "homepage": "https://github.com/fityanos/tarjimly#readme"
 }

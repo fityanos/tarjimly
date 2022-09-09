@@ -1,40 +1,41 @@
 # Tarjimly
 
-Tarjimly is a simple yet powerful CLI translator build using MyMemory translated API
+Tarjimly is the Arabic word for "translate for me". Simple command-line for translation build using MyMemory API
 
 ## What's inside
 
 ```bash
 ├── bin
 │   ├── tarjimly.js
-├── index.js
+├── src
+│   ├── index.js
 ├── package-lock.json
 ├── package.json
 └── readme.md
 ```
 
-## Install
+## Install via npm (-g for globally for easier reach and usage)
 
 ```bash
 npm i tarjimly -g
 ```
 
-## Run
+## How to run
 
 ```bash
-tarjimly <word> <from language> <to language>
+tarjimly your_word from_language to_language
 ```
 
-## Example
+## Example from English to Arabic (single word works without quotes)
 
 ```bash
-tarjimly "car" en ar
+tarjimly house en ar
 ```
 
-## Supported languages
+## Example from English to Italian
 
 ```bash
-TBD
+tarjimly 'I am coming home' en it
 ```
 
 ## Licence

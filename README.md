@@ -16,7 +16,7 @@ Tarjimly is a simple yet powerful CLI translator build using MyMemory translated
 ## Install
 
 ```bash
-npm i tarjimly
+npm i tarjimly -g
 ```
 
 ## Run

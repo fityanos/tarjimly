@@ -20,19 +20,23 @@ npm i tarjimly
 ```
 
 ## Run
+
 ```bash
 tarjimly <word> <from language> <to language>
 ```
 
 ## Example
+
 ```bash
-tarjimly car en ar
+tarjimly "car" en ar
 ```
 
 ## Supported languages
+
 ```bash
 TBD
 ```
 
 ## Licence
+
 MIT

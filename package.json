@@ -1,7 +1,7 @@
 {
-  "name": "tarjm",
+  "name": "tarjimly",
   "version": "1.0.0",
-  "description": "Tarjim is the Arabic word for translate. CLI for quick translations build on top of MyMemory-Translated",
+  "description": "tarjimly is the Arabic word for translate for me. Simple CLI for translation build on top of MyMemory-Translated",
   "main": "index.js",
   "type": "module",
   "author": "Anas Fitiani <https://github.com/fityanos>",

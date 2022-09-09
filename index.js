@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 import Method from "axios";
 const { get } = Method;
 import chalk from "chalk";

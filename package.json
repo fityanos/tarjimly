@@ -1,6 +1,6 @@
 {
   "name": "tarjimly",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Tarjimly is the Arabic word for `translate for me`. Simple command-line for translation build using MyMemory API",
   "main": "src/index.js",
   "bin": "src/index.js",
